@@ -1,4 +1,4 @@
-package ru.netology.sgr;
+package ru.netology.sqr;
 
 public class SQRService {
 
